@@ -1,7 +1,5 @@
 ### Hey, I'm Luke! 👋
 
-<a href="https://ibb.co/dgZZS38"><img src="https://i.ibb.co/WtCCQdm/Chimmy-Wars-Improved-No-Company-Logos.jpg" alt="Chimmy-Wars-Improved-No-Company-Logos" border="0"></a>
-
 I am a 14 y/o designer and new developer. Productivity nerd. 
 
 HTML | CSS | SCSS | Javascript | NodeJS | Typescript | React | Electron | Python | Go
