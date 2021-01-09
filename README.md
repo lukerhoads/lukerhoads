@@ -2,7 +2,7 @@
 
 I am a 14 y/o designer and new developer. Productivity nerd. 
 
-HTML | CSS | SCSS | Javascript | NodeJS | Typescript | React | Electron | Python | Go
+HTML | CSS | Javascript | NodeJS | Typescript | React | Electron | Python | Go
 
 Twitter: @sockethangup <br>
 Instagram: @luke.fyi <br>
