@@ -2,7 +2,7 @@
 
 I am a 14 y/o designer and new developer. Productivity nerd. 
 
-Javascript | Typescript | React | Python | Go
+Typescript | React | Python | Go 
 
 Twitter: @sockethangup <br>
 Instagram: @luke.fyi <br>
