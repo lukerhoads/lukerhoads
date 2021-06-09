@@ -1,6 +1,6 @@
 ### Hey, I'm Luke! 👋
 
-I am a 14 y/o designer and new developer. Productivity nerd. 
+I am a designer and new developer. Productivity nerd. 
 
 Typescript | React | Python | Go 
 
