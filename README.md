@@ -1,8 +1,8 @@
 ### Hey, I'm Luke! 👋
 
-I am a designer and new developer. Productivity nerd. 
+I am a designer and developer. Productivity nerd. 
 
-Typescript | React | Python | Go 
+Typescript | React | Python | Go | Rust
 
 Twitter: @sockethangup <br>
 Instagram: @luke.fyi <br>
