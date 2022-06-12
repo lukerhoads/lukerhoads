@@ -1,7 +1,5 @@
 ### Hey, I'm Luke! 👋
 
-and I am interested in web3 
-
 Typescript | React | Go | Solidity
 
 Twitter: @sockethangup <br>
