@@ -1,6 +1,6 @@
 ### Hey, I'm Luke! 👋
 
-Typescript | React | Go | Solidity
+Go | Rust | Solidity | Typescript
 
 Twitter: @sockethangup <br>
 Instagram: @luke.fyi <br>
